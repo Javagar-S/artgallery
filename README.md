@@ -1,2 +1,1 @@
-# artgallery
-artgallery website
+This is my project
